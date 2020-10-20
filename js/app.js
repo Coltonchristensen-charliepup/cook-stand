@@ -83,11 +83,10 @@ tokyo.render();
 var dubai = new City('Dubai', 11, 38, 3.7);
 dubai.render();
 var paris = new City('Paris', 20, 38, 2.3);
-paris.render;
+paris.render();
 var lima = new City('Lima', 2, 16, 4.6);
 lima.render();
-var total = new City('Total', 0);
-total.render();
+
 // var seattle = Cities('seattle')
 
 // var seattle = {
