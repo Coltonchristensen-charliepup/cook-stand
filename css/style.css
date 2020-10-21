@@ -1,0 +1,15 @@
+* {
+  background-color: cadetblue;
+}
+table {
+  background-color: darkred;
+  border: 1px solid black;
+}
+th, td {
+  background-color: chartreuse;
+  padding: 12px;
+  border: 2px solid black;
+}
+td {
+  text-align: left;
+}
